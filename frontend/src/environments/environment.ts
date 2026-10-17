@@ -1,6 +1,6 @@
 // After you deploy the backend (for example on Render), paste its address here.
 // Keep the "/api" at the end. This is only used when the site is NOT opened from your own computer.
-const HOSTED_API_URL = 'https://YOUR-BACKEND-NAME.onrender.com/api';
+const HOSTED_API_URL = 'https://sms-backend-iztw.onrender.com/api';
 
 const onLocalComputer = ['localhost', '127.0.0.1'].includes(window.location.hostname);
 
