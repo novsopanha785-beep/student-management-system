@@ -10,7 +10,7 @@ export const environment = {
 
   // --- School branding ---
   // Your logo file goes in frontend/public/logo/setec.png (a "logo" folder inside "public").
-  schoolName: 'SETEC Institute',
+  schoolName: 'SETEC INSTITUTE',
   schoolShortName: 'SE', // letters shown instead of the logo if no logo file is found
   logoUrl: 'logo/setec.png',
 };
